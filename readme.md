@@ -5,7 +5,7 @@
 
 
 ## Português
-Nos precisamos fortalecer a agriculta familiar e os movimento sociais como o MST. Em tempos de covid19, não podemos nos dar ao luxo de distribuir comida no formato de feiras, tão famosos no Brasil. Uma possibilidade é o uso da internet para a distribuição local, de forma atenta para não criar uma forma de opressão como diversas empresas de tecnologias. Por isso proponho o funcionamento de um comércio eletrônico um pouco diferente daquele normalmente  visto mundo a fora.
+Nos precisamos fortalecer a agricultura familiar e os movimento sociais como o MST. Em tempos de covid19, não podemos nos dar ao luxo de distribuir comida no formato de feiras, tão famosos no Brasil. Uma possibilidade é o uso da internet para a distribuição local, de forma atenta para não criar uma forma de opressão como diversas empresas de tecnologias. Por isso proponho o funcionamento de um comércio eletrônico um pouco diferente daquele normalmente  visto mundo a fora.
 
 Neste comércio eletrônico, o foco seria a venda local de produtos por pequenos agricultores e distribuídos por cooperativas ou indivíduos donos de caminhonetes / carros / meios de transporte. Um pequeno agricultor poderia vender seu tomate somente para a região de sua cidade, mantendo o alimento fresco e talvez até criando laços entre os consumidores. 
 
