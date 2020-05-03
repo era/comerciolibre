@@ -25,13 +25,6 @@ Para processar o pagamento, poderia-se utilizar um dos provedores que tem infrae
 - https://stripe.com/ie/connect
 - https://www.braintreepayments.com/products/braintree-marketplace
 
-O desenvolvimento do sistema idealmente teria:
-- 2 desenvolvedores
-- 1 UX/UI designer
-- 1 administrador de sistemas
-
-### O Sistema
-TODO
 
 ### Licença
 Idealmente GPLv3
