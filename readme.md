@@ -1,7 +1,7 @@
 # Comercio Libre
 
 - [Português](#Português)
-- [In English](#Englisj)
+- [In English](#English)
 
 
 ## Português
