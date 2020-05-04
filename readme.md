@@ -24,7 +24,23 @@ Para processar o pagamento, poderia-se utilizar um dos provedores que tem infrae
 - https://www.adyen.com/our-solution/online-payments/marketplaces
 - https://stripe.com/ie/connect
 - https://www.braintreepayments.com/products/braintree-marketplace
+### Vantagens para assentamentos / pequeno agricultor
+- Acesso a um mercado maior que aquele disponível em feiras.
+- Em tempos de covid19, vender online pode ser uma das poucas modalidades disponíveis
 
+### Vantagens ao distribuidor (pessoa fazendo o frete local)
+- Autonomia nas horas trabalhadas
+- Autonomia no frete cobrado
+
+### Vantagens ao consumidor final
+- Acesso a produtos sem agro-tóxicos e ecológico (ético)
+- Ajuda a combater os latifúndios
+- Acesso a produtos mais baratos e de qualidade
+- Ajuda a economia solidária
+
+### Regras de negócio
+
+Antes de começar o desenvolvimento é necessário achar pequenos agricultores / assentamentos dispostos a ajudar a entender como isso funcionária. Também é necessário uma entidade legal para colocar em produção e a definição de como possibilitar o voto para tomada de decisões.
 
 ### Licença
 Idealmente GPLv3
