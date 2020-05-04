@@ -33,17 +33,21 @@ Para processar o pagamento, poderia-se utilizar um dos provedores que tem infrae
 - Autonomia no frete cobrado
 
 ### Vantagens ao consumidor final
-- Acesso a produtos sem agro-tóxicos e ecológico (ético)
+- Acesso a produtos sem agrotóxicos e ecológico (ético)
 - Ajuda a combater os latifúndios
 - Acesso a produtos mais baratos e de qualidade
 - Ajuda a economia solidária
 
-### Regras de negócio
+### Porque escrever um texto ao invés de implementar o site?
 
-Antes de começar o desenvolvimento é necessário achar pequenos agricultores / assentamentos dispostos a ajudar a entender como isso funcionária. Também é necessário uma entidade legal para colocar em produção e a definição de como possibilitar o voto para tomada de decisões.
+Antes de começar o desenvolvimento é necessário achar pequenos agricultores / assentamentos dispostos a ajudar a entender como isso funcionária.  Dado que existem outros problemas aqui, como o acesso a internet. Talvez o problema inicial nem seja o site, mas criar uma infraestrutura barata (com raspberry pi talvez) para que os assentamentos tenham acesso ao sistema / internet.
 
-### Licença
-Idealmente GPLv3
+Também é necessário uma entidade legal para colocar em produção e a definição de como possibilitar o voto para tomada de decisões.
+
+Eu também acredito que um projeto assim só pode dar certo se uma comunidade for dona. Essa comunidade pode ser movimentos sociais, entidades governamentais ou cooperativas. Mas precisam ser democráticas.
+
+Se você ou sua comunidade tem interesse em implementar algo assim e quiser alguma ajuda técnica, me mande um e-mail brtechie@protonmail.com. Se não precisarem de ajuda, mas forem implementar, me mandem e-mail também porque eu adoraria ouvir a história :D.
+
 ## English
 
 TODO
