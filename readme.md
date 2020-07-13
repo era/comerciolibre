@@ -40,7 +40,7 @@ Para processar o pagamento, poderia-se utilizar um dos provedores que tem infrae
 
 ### Porque escrever um texto ao invés de implementar o site?
 
-Antes de começar o desenvolvimento é necessário achar pequenos agricultores / assentamentos dispostos a ajudar a entender como isso funcionária.  Dado que existem outros problemas aqui, como o acesso a internet. Talvez o problema inicial nem seja o site, mas criar uma infraestrutura barata (com raspberry pi talvez) para que os assentamentos tenham acesso ao sistema / internet.
+Antes de começar o desenvolvimento é necessário achar pequenos agricultores / assentamentos dispostos a ajudar a entender como isso funcionaria.  Dado que existem outros problemas aqui, como o acesso a internet. Talvez o problema inicial nem seja o site, mas criar uma infraestrutura barata (com raspberry pi talvez) para que os assentamentos tenham acesso ao sistema / internet.
 
 Também é necessário uma entidade legal para colocar em produção e a definição de como possibilitar o voto para tomada de decisões.
 
